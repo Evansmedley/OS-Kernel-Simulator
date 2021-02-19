@@ -1,1 +1,0 @@
-main test3.txt output3.txt
