@@ -66,7 +66,9 @@ test1.bat file was created using a .txt with the following script input:
 
 and save the program extension to a .bat file. This batch files calls the
 main.exe to act upon name_of_test_file.txt to generate the output in another
-file called name_of_output.txt.
+file called name_of_output.txt. In order for the batch files to work, they
+must be placed in the same folder as main.exe and their corresponding text
+file.
 
 ---------------------------------- Input Data --------------------------------
 
