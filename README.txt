@@ -7,8 +7,7 @@ February 5, 2021
 CONTACT INFORMATION
 ___________________
 
-Contact Name:		Trong Nguyen, 100848232
-			Evan Smedley, 100148695
+Contact Name:		Evan Smedley, 100148695
 Affiliation: 		Carleton University - Systems and Computer Engineering
 
 #-----------------------------------------------------------------------------
@@ -126,7 +125,7 @@ _______
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-Copyright (c) 2021 Trong Nguyen
+Copyright (c) 2021 Evan Smedley
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
